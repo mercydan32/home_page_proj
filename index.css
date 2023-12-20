@@ -2,10 +2,6 @@
     font-family: 'Poppins', sans-serif;
 
 }
-/* body{
-  /* margin: 0; */
-  /* background-color: whitesmoke; 
-} */
 
 .headings{
     width: 100%;
@@ -131,16 +127,13 @@
       .hero_wordings{
         position: absolute;
         z-index: 1;
-        font-size:30px;
+        font-size:27px;
         font-style: oblique;
         top: 100px;
         left: 50px;
 
       }
-
-
-
-
+      
 
         /* hero_area container slider */
       .hero-container {
